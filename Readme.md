@@ -8,7 +8,7 @@ A simple app built in Jetpack Compose from scratch to demonstrate the implementa
 
 ## Screenshot
 
-<img src="./ScreenShots/DataStoreScreenshort.jpg" width=40% height=40%>
+<img src="./Screenshots/DataStoreScreenshort.jpg" width=40% height=40%>
 
 ## Getting Started
 
