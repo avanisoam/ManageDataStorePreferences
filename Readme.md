@@ -28,3 +28,7 @@ A simple app built in Jetpack Compose from scratch to demonstrate the implementa
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Article On Medium
+
+- Read on [Medium](https://medium.com/@avanisoam/managing-datastore-preferences-in-jetpack-compose-a-comprehensive-guide-ecd29f5a9930)
